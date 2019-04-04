@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestGameEver.Win", "BestGameEver.Win\BestGameEver.Win.csproj", "{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestGameEver.Droid", "BestGameEver.Droid\BestGameEver.Droid.csproj", "{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Debug|Any CPU.Build.0 = Debug|x86
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Debug|x86.ActiveCfg = Debug|x86
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Debug|x86.Build.0 = Debug|x86
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Release|Any CPU.ActiveCfg = Release|x86
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Release|x86.ActiveCfg = Release|x86
+		{EB29CB64-EDF2-466A-9B26-BF44A12C2E51}.Release|x86.Build.0 = Release|x86
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Debug|x86.Build.0 = Debug|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Release|x86.ActiveCfg = Release|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Release|x86.Build.0 = Release|Any CPU
+		{B44EAED6-9563-4BC5-AC87-E9F6BFB8072C}.Release|x86.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6F0714-F607-4226-AC70-7F29E30D1221}
+	EndGlobalSection
+EndGlobal
